@@ -26,8 +26,7 @@
 ## 🧠 Skills & Tools
 
 - **Languages:** SQL, Python (basic), Excel  
-- **Visualization:** Power BI, Tableau  
-- **Tech Stack:** MySQL, DAX, Pandas  
+- **Visualization:** Power BI, Tableau 
 - **Core Skills:** Data cleaning • EDA • Dashboard design • Business storytelling
 
 ---

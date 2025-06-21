@@ -7,7 +7,7 @@
 
 ## 🚀 What I Do
 
-- Transform raw data into actionable insights using **SQL** and **Power BI**
+- Transform raw data into actionable insights.
 - Build interactive dashboards that reflect real business scenarios  
 - Work on practical, result-oriented projects
 

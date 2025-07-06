@@ -19,7 +19,7 @@
   *Analyzed weekly sales trends, CPI impact, and holiday effects using SQL + Power BI*
 
 - [📉 Customer Churn Dashboard](https://github.com/diyapatel07/customer-churn-analysis)  
-  *Visualized churn patterns and business KPIs using Excel & Tableau*
+  *Visualized churn patterns and business KPIs using Python + PowerBI*
 
 ---
 
